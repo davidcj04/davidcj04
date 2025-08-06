@@ -3,6 +3,10 @@
  <div>
    <h2>about me</h2>
  </div>
+ <p>Dedicated and proactive Systems Engineering student at the Universidad Politécnica
+ Internacional, with a solid base in computing and networking technologies backed up by
+ multiple certifications from Cisco, including IT Essentials, CCNA, and Linux, as well as
+ programming credentials in Python and JavaScript Essentials.</p>
 <!--
 **davidcj04/davidcj04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
