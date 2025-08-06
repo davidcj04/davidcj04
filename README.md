@@ -1,7 +1,7 @@
 ## Hi , I'm David  👋
 
  <div>
-   <h1>about me </h1>
+   <h2>about me</h2>
  </div>
 <!--
 **davidcj04/davidcj04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
