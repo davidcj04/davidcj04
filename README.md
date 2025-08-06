@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Passionate+about+Tech+and+Learning" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Passionate+about+Tech+and+Learning;I+code,+therefore+I+am" alt="Typing SVG">
   </a>
 </p>
 
@@ -14,17 +14,24 @@
 ## 👨‍💻 About Me
 
 🎓 I'm a **dedicated and proactive Systems Engineering student** at the *Universidad Politécnica Internacional*.  
-📚 I have a strong foundation in computing and networking, backed by multiple **Cisco certifications**:  
+📚 Strong foundation in computing and networking, backed by multiple **Cisco certifications**:  
 - IT Essentials  
-- CCNA  I
-- CCNA II
-- Linux
-- React
+- CCNA I & II  
+- Linux  
+- React  
 
-💻 I'm also skilled in **programming**, with certifications in:  
+💻 Skilled in programming with certifications in:  
 - Python Essentials  
 - JavaScript Essentials
-- 
+
+---
+
+## 🌍 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spanish-Native-red?style=plastic&logo=googletranslate&logoColor=white" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-Intermediate-blue?style=plastic&logo=googletranslate&logoColor=white" alt="English">
+</p>
 
 ---
 
@@ -69,19 +76,3 @@
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:david.castro.jiron@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/davidcj04" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://wa.me/50663775934" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.linkedin.com/in/david-castro-jiron-51721a2a5" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
