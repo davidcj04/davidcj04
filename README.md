@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/david-castro" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://github.com/davidcj04/davidcj04.git" alt="GitHub">
   </a>
   <a href="https://wa.me/50663775934" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp">
