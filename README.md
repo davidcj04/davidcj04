@@ -16,12 +16,15 @@
 🎓 I'm a **dedicated and proactive Systems Engineering student** at the *Universidad Politécnica Internacional*.  
 📚 I have a strong foundation in computing and networking, backed by multiple **Cisco certifications**:  
 - IT Essentials  
-- CCNA  
-- Linux  
+- CCNA  I
+- CCNA II
+- Linux
+- React
 
 💻 I'm also skilled in **programming**, with certifications in:  
 - Python Essentials  
 - JavaScript Essentials
+- 
 
 ---
 
@@ -72,8 +75,8 @@
   <a href="mailto:david.castro.jiron@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/david-castro" target="_blank">
-    <img src="https://github.com/davidcj04/davidcj04.git" alt="GitHub">
+  <a href="https://github.com/davidcj04" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://wa.me/50663775934" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp">
